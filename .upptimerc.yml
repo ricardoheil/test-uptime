@@ -19,6 +19,8 @@ sites:
     url: $OPTA_SITE_7
   - name: OPTA 8
     url: $OPTA_SITE_8
+  - name: OPTA
+    url: $OPTA_SITE
   - name: FIR
     url: $FIR_SITE
   - name: FIR B.
