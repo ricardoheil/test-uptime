@@ -3,10 +3,26 @@ owner: ricardoheil # Your GitHub organization or username, where this repository
 repo: test-uptime # The name of this repository
 
 sites:
-  - name: OPTA
-    url: https://opta.reamined.on.ca/
+  - name: OPTA 1
+    url: $OPTA_SITE_1
+  - name: OPTA 2
+    url: $OPTA_SITE_2
+  - name: OPTA 3
+    url: $OPTA_SITE_3
+  - name: OPTA 4
+    url: $OPTA_SITE_4
+  - name: OPTA 5
+    url: $OPTA_SITE_5
+  - name: OPTA 6
+    url: $OPTA_SITE_6
+  - name: OPTA 7
+    url: $OPTA_SITE_7
+  - name: OPTA 8
+    url: $OPTA_SITE_8
   - name: FIR
-    url: https://fir.reamined.on.ca/
+    url: $FIR_SITE
+  - name: FIR B.
+    url: $FIR_BACKEND
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
