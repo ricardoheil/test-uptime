@@ -16,7 +16,7 @@
     "timeMonth": 293,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2023-09-15": 1285,
+      "2023-09-15": 1309,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -269,7 +269,7 @@
     "timeMonth": 152,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2023-09-15": 1285,
+      "2023-09-15": 1309,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -522,7 +522,7 @@
     "timeMonth": 88,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2023-09-15": 1285,
+      "2023-09-15": 1309,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -775,7 +775,7 @@
     "timeMonth": 89,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2023-09-15": 1285,
+      "2023-09-15": 1309,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -1028,7 +1028,7 @@
     "timeMonth": 84,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2023-09-15": 1285,
+      "2023-09-15": 1309,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -1281,7 +1281,7 @@
     "timeMonth": 62,
     "timeYear": 69,
     "dailyMinutesDown": {
-      "2023-09-15": 1285,
+      "2023-09-15": 1309,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -1534,7 +1534,7 @@
     "timeMonth": 60,
     "timeYear": 70,
     "dailyMinutesDown": {
-      "2023-09-15": 1285,
+      "2023-09-15": 1309,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -1787,7 +1787,7 @@
     "timeMonth": 58,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2023-09-15": 1285,
+      "2023-09-15": 1309,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -2048,10 +2048,10 @@
     "url": "$FIR_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fir",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
@@ -2059,18 +2059,20 @@
     "timeWeek": 184,
     "timeMonth": 244,
     "timeYear": 293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-15": 1
+    }
   },
   {
     "name": "FIR B.",
     "url": "$FIR_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fir-b",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2235,
     "timeDay": 2385,
@@ -2078,7 +2080,7 @@
     "timeMonth": 2298,
     "timeYear": 2235,
     "dailyMinutesDown": {
-      "2023-09-15": 11
+      "2023-09-15": 0
     }
   }
 ]
