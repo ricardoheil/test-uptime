@@ -1,7 +1,7 @@
 url: $OPTA_SITE_1
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-16T23:10:21.169Z
+code: 500
+responseTime: 120
+lastUpdated: 2024-02-17T23:10:11.901Z
 startTime: 2023-01-25T14:27:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
