@@ -1,7 +1,7 @@
 url: $FIR_BACKEND
-status: down
-code: 503
-responseTime: 344
-lastUpdated: 2024-02-23T15:26:23.499Z
+status: up
+code: 200
+responseTime: 2360
+lastUpdated: 2024-02-23T15:38:00.853Z
 startTime: 2023-01-25T14:27:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
