@@ -3462,7 +3462,7 @@
     "slug": "fir",
     "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "99.63%",
+    "uptimeDay": "99.59%",
     "uptimeWeek": "98.25%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "98.21%",
@@ -3543,7 +3543,7 @@
       "2026-05-04": 154,
       "2026-05-05": 232,
       "2026-09-01": 171,
-      "2026-09-06": 5
+      "2026-09-06": 6
     }
   },
   {
@@ -3553,8 +3553,8 @@
     "slug": "fir-b",
     "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.35%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "98.34%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "98.32%",
     "time": 304,
